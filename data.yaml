@@ -1,0 +1,7 @@
+path: /home/user/Desktop/donderdag-computer-vision-assignment/pics
+
+train: images/train 
+val: images/val 
+
+nc: 4 
+names: ['bus', 'pole', 'hole', 'crosswalk']
